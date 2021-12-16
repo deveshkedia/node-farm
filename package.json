@@ -1,0 +1,25 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "learning node js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deveshkedia/node-farm.git"
+  },
+  "author": "Devesh Kedia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deveshkedia/node-farm/issues"
+  },
+  "homepage": "https://github.com/deveshkedia/node-farm#readme",
+  "dependencies": {
+    "slugify": "^1.6.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
